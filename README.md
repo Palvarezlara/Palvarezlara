@@ -1,16 +1,20 @@
-## Hi there 👋
+## ¡Hola! Soy Pamela👋,
 
-<!--
-**Palvarezlara/Palvarezlara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy estudiante de primer año de Analista Programador, apasionada por aprender nuevas tecnologías y mejorar mis habilidades en programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tecnologías y Herramientas que he aprendido para la lógica de programación
+- **Diagramas de Flujo:** Utilice DFD.
+- **Pseint:** Para la lógica y algoritmos.
+- **Python:** Para comenzar con un lenguaje.
+
+## Proyectos Destacados
+- [Diagrama de Flujo de Algoritmos Básicos](https://github.com/Palvarezlara/diagramas-de-flujo)
+- [Ejercicios en Pseint](https://github.com/Palvarezlara/ejercicios-en-pseudocodigo)
+- [Proyectos en Python](https://github.com/Palvarezlara/proyectos-en-python)
+
+## Conéctate conmigo
+- [LinkedIn](linkedin.com/in/pamela-alvarez-lara-18744872)
+  
+
 -->
