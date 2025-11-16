@@ -17,7 +17,7 @@ Soy estudiante de segundo año de Ingeniería en Informatica, apasionada por apr
 - [Practica de Fullstack2](https://github.com/Palvarezlara/fullstack2-ejercicios-practicos).
 - [Proyecto de Fullstack2 - Frontend HTML-CSS-Javascript](https://github.com/Palvarezlara/fullstack-spa-reservas).
 - [Proyecto de Fullstack2 - Frontend React- En proceso](https://github.com/Palvarezlara/spa-del-bosque-app).
-- [Proyecto de Fullstack2 - Backend - Spring boot - En proceso](https://github.com/Palvarezlara/spa-del-bosque-backend).
+- [Proyecto de Fullstack2 - Backend - Spring boot - En proceso](https://github.com/Palvarezlara/spa-catalog-service).
 - [Practica Fullstack con curso de JSCamp - Midudev- En proceso - Privado](https://github.com/Palvarezlara/proyecto-jscamp)
   
 
